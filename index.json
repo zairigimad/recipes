@@ -1,0 +1,19 @@
+{
+    "aliases": {
+        "one-signal-notifier": "symfony/one-signal-notifier",
+        "onesignalnotifier": "symfony/one-signal-notifier"
+    },
+    "recipes": {
+        "symfony/one-signal-notifier": [
+            "5.4"
+        ]
+    },
+    "versions": [],
+    "branch": "master",
+    "is_contrib": false,
+    "_links": {
+        "repository": "github.com/symfony/recipes",
+        "origin_template": "{package}:{version}@github.com/symfony/recipes:master",
+        "recipe_template": "https://api.github.com/repos/symfony/recipes/contents/{package_dotted}.{version}.json?ref=flex/pull-1016"
+    }
+}
